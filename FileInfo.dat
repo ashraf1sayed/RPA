@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="DownGYR.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 14:49:47</Property>
+      <Property Name="RunDuration">00:00:54</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DowenloadTaxIDRepport.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 15:12:10</Property>
+      <Property Name="RunDuration">00:22:22</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="FilterTaxID.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 15:12:24</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="UploadRepport.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 15:15:26</Property>
+      <Property Name="RunDuration">00:03:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Uploaded with ID .atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/11/2020 15:17:20</Property>
+      <Property Name="RunDuration">00:01:54</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
